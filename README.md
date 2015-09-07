@@ -24,7 +24,7 @@ iOS开源库收集整理
    <img src="https://camo.githubusercontent.com/c204704fea6595f218def0a58c8fd2ddd2aeb61b/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6c6561682e6261636f6e66696c652e636f6d2f626c6f672f726566726573682d736d616c6c2d312e706e67" alt="点击查看大图" width="80" height=160" >
 * [HybridRefreshGestureRecognizer](https://github.com/dingtianran/HybridRefreshGestureRecognizer) - 一个类似似TweetBot的下拉刷新样式
 <br />
-<img src="https://github.com/dingtianran/HybridRefreshGestureRecognizer/raw/master/Screenshot.jpg" "width"="100" height="80">
+<img src="https://github.com/dingtianran/HybridRefreshGestureRecognizer/raw/master/Screenshot.jpg" "width"="80" height="160">
 * [sspulltorefresh](https://github.com/soffes/sspulltorefresh) - 下拉刷新
 
 ##### 提示库
