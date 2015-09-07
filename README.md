@@ -20,7 +20,7 @@ iOS开源库收集整理
 * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) - 下拉刷新 扩展了UIScrollView 很方便简单
 * [MSPullToRefreshController](https://github.com/bogardon/MSPullToRefreshController) - 一个不错的上下拉刷新的控件 里面是彩虹
 * [PullToRefresh](https://github.com/leah/PullToRefresh) - 下拉刷新
-   <img src="https://camo.githubusercontent.com/c204704fea6595f218def0a58c8fd2ddd2aeb61b/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6c6561682e6261636f6e66696c652e636f6d2f626c6f672f726566726573682d736d616c6c2d312e706e67" alt="" data-canonical-src="http://s3.amazonaws.com/leah.baconfile.com/blog/refresh-small-1.png" style="width:100px;height:100px;">
+   <img src="https://camo.githubusercontent.com/c204704fea6595f218def0a58c8fd2ddd2aeb61b/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6c6561682e6261636f6e66696c652e636f6d2f626c6f672f726566726573682d736d616c6c2d312e706e67" alt="" data-canonical-src="http://s3.amazonaws.com/leah.baconfile.com/blog/refresh-small-1.png" width="50" height="50" >
 * [HybridRefreshGestureRecognizer](https://github.com/dingtianran/HybridRefreshGestureRecognizer) - 一个类似似TweetBot的下拉刷新样式
 * [sspulltorefresh](https://github.com/soffes/sspulltorefresh) - 下拉刷新
 
