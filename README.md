@@ -5,7 +5,7 @@ iOS开源库收集整理
 ###  目录
 - [UI](#UI)
     - [下拉刷新](#下拉刷新)
-    - [提示库HUD](#提示库HUD)
+    - [提示库HUD](#提示库)
 - [动画](#动画)
 
 
@@ -23,7 +23,7 @@ iOS开源库收集整理
 * [HybridRefreshGestureRecognizer](https://github.com/dingtianran/HybridRefreshGestureRecognizer) - 一个类似似TweetBot的下拉刷新样式
 * [sspulltorefresh](https://github.com/soffes/sspulltorefresh) - 下拉刷新
 
-##### 提示库HUD
+##### 提示库
 * [MBProgressHUD](https://github.com/matej/MBProgressHUD) - 和MBHUD一样 但有更新 添加了BLock iOS6
 
 ========
