@@ -28,7 +28,6 @@ iOS开源库收集整理
 * [sspulltorefresh](https://github.com/soffes/sspulltorefresh) - 下拉刷新
 * [Navigation 滑动返回](http://www.cocoachina.com/ios/20150811/12897.html) - 滑动返回
 * [自定义图片选择器](http://d.cocoachina.com/code/detail/324886) 
-* <img src="http://cc.cocimg.com/bbs/attachment/postcate/topic/16/322177_189_06ff14411640719e1c9558aef7580.png" "width"="80" height="160">
 ##### 提示库
 * [MBProgressHUD](https://github.com/matej/MBProgressHUD) - 和MBHUD一样 但有更新 添加了BLock iOS6
 
