@@ -29,7 +29,6 @@ iOS开源库收集整理
 * [Navigation 滑动返回](http://www.cocoachina.com/ios/20150811/12897.html) - 滑动返回
 * [自定义图片选择器](http://d.cocoachina.com/code/detail/324886) 
 * [完美主义：实现iOS输入框自动移动](http://www.cocoachina.com/ios/20150922/13521.html)(https://github.com/meiwin/NgKeyboardTracker) - iOS输入框自动移动
- <br /><img src="https://github.com/meiwin/ngkeyboardtracker/blob/master/ngkeyboardtracker.gif" "width"="80" height="160">
 ##### 提示库
 * [MBProgressHUD](https://github.com/matej/MBProgressHUD) - 和MBHUD一样 但有更新 添加了BLock iOS6
 
